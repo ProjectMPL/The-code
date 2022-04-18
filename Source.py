@@ -1,4 +1,3 @@
-
 import time
 
 Variables = list(range(32714))
